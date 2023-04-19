@@ -248,6 +248,7 @@ public static class Actividades
 
         }
         string variblechota= "Como me gusta la nochche"
+        Console.WriteLine("Yo amo a mi novia es la mejor del mundo");
     }
 }
 
